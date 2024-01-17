@@ -1,0 +1,17 @@
+body{
+    min-height: 100vh;
+}
+
+
+h1{
+    color: blue;
+}
+body{
+    background-color:white;
+}
+h3{
+    color:red;
+}
+p {
+    color:green
+}
